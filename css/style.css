@@ -28,6 +28,6 @@
 	font-size: 40px;
 }
 .gradient{
-background-image: linear-gradient(to right,black,#404040, white);
+background-image: linear-gradient(to right,#404040,#404040, white);
 
 }
